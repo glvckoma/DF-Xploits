@@ -14,6 +14,8 @@ A comprehensive mod menu for Dead Frontier 1 with enhancements for player moveme
 3. Click **Prepare** and wait for the game
 4. Launch the game, everything is handled automatically
 
+<span style="color:red">IMPORTANT: You MUST navigate to where Dead Frontier is installed -> right click -> properties -> compatibility -> run as administrator -> apply for the mods to work.</span>
+
 ---
 
 ## Controls
