@@ -1,11 +1,8 @@
 <h1 align="center">Dead Frontier 1 Mod Menu</h1>
 
-
 A comprehensive mod menu for Dead Frontier 1 with enhancements for player movement, world interaction, combat, and visual overlays.
 
-> **Disclaimer:** Use at your own risk. Nothing is completely ban-proof—avoid using your main account. Only activate mods you need, as some may conflict with each other. These mods are created for personal use.
-
----
+> **Disclaimer:** Use at your own risk. Nothing is completely ban-proof so avoid using your main account. Only activate mods you need as some may conflict with each other. These mods are created for personal use.
 
 ## How Does It Work?
 
@@ -14,9 +11,7 @@ A comprehensive mod menu for Dead Frontier 1 with enhancements for player moveme
 3. Click **Prepare** and wait for the game
 4. Launch the game, everything is handled automatically
 
-<span style="color:red">IMPORTANT: You MUST navigate to where Dead Frontier is installed -> right click -> properties -> compatibility -> run as administrator -> apply for the mods to work.</span>
-
----
+<span style="color:red">IMPORTANT: You MUST navigate to where Dead Frontier is installed then right click and select properties. Go to compatibility and check run as administrator then click apply for the mods to work.</span>
 
 ## Controls
 
@@ -27,8 +22,6 @@ A comprehensive mod menu for Dead Frontier 1 with enhancements for player moveme
 
 All keybinds are fully customizable in the new Keybinds tab.
 
----
-
 ## Features
 
 ### Player Mods
@@ -37,20 +30,21 @@ All keybinds are fully customizable in the new Keybinds tab.
 |-----|-------------|
 | Infinite Sprint | Removes stamina restrictions for endless sprinting |
 | Speed Multiplier | Custom value to increase walking/running speed |
-| Auto Loot Walker | Automatically walks to nearby loot with intelligent pathfinding and obstacle avoidance (does not auto-search) |
-| Fast Loot Search | Instant looting—skips the search animation |
+| Auto Loot Walker | Automatically walks to nearby loot with intelligent pathfinding (does not auto-search) |
+| Fast Loot Search | Instant looting that skips the search animation |
 | Lazy Loot | Press `;` to pull the nearest loot spot to your location |
 | Noclip | Move through walls and obstacles freely |
-| One Hit Kill | Instantly kill zombies, bandits, and bosses. *Using on bosses/bandits will likely result in a ban* |
-| Perfect Accuracy | Removes weapon spread. Requires bypass process on startup (10–20s); weapon UI may appear empty during initialization |
+| One Hit Kill | Instantly kill zombies, bandits, and bosses with customizable damage multiplier (*Using on bosses/bandits will likely result in a ban*) |
+| Perfect Accuracy | Removes weapon spread (Requires bypass process on startup) |
 | Weapon Speed % | Multiplies weapon speed by your specified value |
+| Cosmetic Customizer | Search and apply any weapon, clothing, or mask model in-game |
 
 ### Item Filtering
 
 - **Ammo:** Auto Deny
 - **Food/Meds:** Auto Consume
 - **Cash:** Auto Accept
-- **Custom:** Accept/Deny specific items (e.g., reactive, ruby, implant, katana, nails)
+- **Custom:** Accept/Deny specific items (e.g. reactive, ruby, implant, katana, nails)
 
 ### World Mods
 
@@ -65,12 +59,15 @@ All keybinds are fully customizable in the new Keybinds tab.
 | Mod | Description |
 |-----|-------------|
 | Auto Fire | Toggle with `Ctrl + F` for continuous shooting |
-| Teleport to Crosshair | Sub-toggle for autofire—teleports enemies within range to your crosshair at set intervals |
-| Bandit Begone | Disables bandits (invisible but still killable) |
+| Teleport to Crosshair | Sub-toggle for autofire that teleports enemies within range to your crosshair |
+| Bandit Calmer | Reduces bandit aggression and behavior |
 | Forcefield | Creates a customizable barrier zombies cannot enter |
+| No XP | Prevents experience gain from kills |
 | Disable Aggro | Prevents zombies from attacking or following you |
+| Freeze Zombies | Completely immobilizes all zombies in place |
 | Low Exploder Radius | Shrinks explosion damage from fat zombies |
 | Low Spitter Radius | Reduces spitter range to 0.1m |
+| Never Reload/Infinite Ammo | Eliminates the need to reload weapons |
 
 ### HUD Mods
 
@@ -86,66 +83,59 @@ All keybinds are fully customizable in the new Keybinds tab.
 
 | Tool | Description |
 |------|-------------|
-| Object Explorer (F11) | Inspect and tweak gameplay elements live—useful for developers and advanced users |
-| Cosmetic Customizer | Search and apply any weapon, clothing, or mask model in-game |
-| Keybinds Tab | Full customization of all mod hotkeys |
-| Randomize Device Identifiers | Randomizes HWID, CPU, and GPU identifiers for added protection between accounts. *Use a VPN for IP protection* |
-
----
-
-## Changelog
-
-### Version 2.0
-
-**Core Changes**
-- Tons of bug fixes and improvements, including mod dependency issues
-- Obfuscated code to prevent unauthorized redistribution
-- Disabled client-side anti-cheat (server anti-cheat unaffected)
-- Additional bypass for player modifications without triggering "Security Error"
-- Max values enforced on mods to prevent server detection
-
-**UI Improvements**
-- Mod menu is now larger and centered (still draggable)
-- New Keybinds tab with full customization
-- New HUD options: Pause game when menu opens, Keybinds display
-
-**New Mods**
-- One Hit Kill (zombies, bandits, bosses)
-- Noclip
-- Perfect Accuracy
-- Weapon Speed %
-- Teleport to Crosshair (autofire sub-toggle)
-- Cosmetic Customizer
-- Randomize Device Identifiers
-
-**New Tools**
-- F11 Object Explorer for live gameplay inspection
-- F12 Developer Logs
-
-**Improvements**
-- Auto Loot Walker enhanced (still requires manual search)
-
-### Version 1.2
-
-- Auto Loot Walker with intelligent pathfinding
-- Disable Weather and Disable Aggro mods
-- HUD tab with Loot Status, Radar, and Nearest Loot Arrow
-- Enhanced GUI with modern design and draggable interface
-- Improved preference persistence
-
-### Version 1.1
-
-- Item Filtering system
-- Lazy loot now works from any distance
-- Fixed Instant Loot and sprint/speed toggle bugs
-- Changed loot pull hotkey to `;`
-
-### Version 1.0
-
-- Initial release
-
----
+| Main Mod Menu (F10) | Central interface for accessing and configuring all mods |
+| Object Explorer (F11) | Inspect and tweak gameplay elements live |
+| Customizable Keybinds | Full customization of all mod hotkeys |
+| Security/Anti-Cheat Bypasses | Multiple layers of protection against detection systems |
+| Randomize Device Identifiers | Randomizes HWID, CPU, and GPU identifiers (*Use a VPN for IP protection*) |
 
 ## Credits
 
 Created by **glvckoma**
+
+## Legal Notice and Terms of Use
+
+**No Warranty or Guarantee**
+
+This software is distributed on an "as is" basis without any warranties. The creator makes no guarantees regarding functionality or stability. Users accept full responsibility for any outcomes from using this software.
+
+**Limitation of Liability**
+
+The author is not liable for damages or consequences that may result from using this software. This includes account penalties, suspensions, or permanent bans. You use this software entirely at your own risk.
+
+**No Support Obligation**
+
+The author has no obligation to provide technical support or updates. Any future releases or bug fixes are provided voluntarily. Users should not expect continuous development.
+
+**Third-Party Affiliation**
+
+This project operates independently and has no official relationship with Creaky Corpse Ltd or its affiliates. All game-related trademarks and assets remain the property of their respective copyright holders.
+
+**Redistribution and Attribution Requirements**
+
+Any redistribution requires explicit attribution to the original author with a direct reference to the source repository. Commercial use or resale is strictly prohibited. Public distribution must maintain proper credit.
+
+**Prohibited Usage**
+
+This software is intended strictly for educational purposes. It must not be used for:
+
+- Unauthorized account access attempts
+- Credential validation or brute force attacks
+- Circumventing security measures
+- Violating terms of service
+- Compromising user privacy or account security
+- Any malicious or harmful activities
+
+Users are responsible for ensuring their usage complies with all applicable laws and service agreements.
+
+**Licensing Terms**
+
+This project is released under the PolyForm Noncommercial License 1.0.0. This license permits personal use and modification while forbidding commercial deployment or monetization. Users must review all license terms in the LICENSE file.
+
+**Rights Holder Requests**
+
+Should Creaky Corpse Ltd or its authorized representatives request discontinuation of this project they may submit a formal takedown notice via this repository. Upon verification the project will be permanently archived.
+
+**Final Statement**
+
+This software serves exclusively as an educational resource for understanding game architecture. Users assume complete responsibility for their actions. The author bears no responsibility for misuse or consequences from improper application of this software.
