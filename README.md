@@ -1,141 +1,54 @@
-<h1 align="center">Dead Frontier 1 Mod Menu</h1>
+<p align="center">
+  <img src="icon.png" alt="DF Xploits" width="128" height="128">
+</p>
 
-A comprehensive mod menu for Dead Frontier 1 with enhancements for player movement, world interaction, combat, and visual overlays.
+<h1 align="center">Dead Frontier Mod Menu</h1>
 
-> **Disclaimer:** Use at your own risk. Nothing is completely ban-proof so avoid using your main account. Only activate mods you need as some may conflict with each other. These mods are created for personal use.
+<p align="center">
+  <a href="https://discord.gg/JuW4BDsQVT"><img src="https://img.shields.io/badge/Discord-Join%20DF%20Xploits-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+</p>
 
-## How Does It Work?
+Mod menus for Dead Frontier 1 and Dead Frontier 2: movement, combat, world, and HUD enhancements.
 
-1. Install the launcher
-2. Purchase and/or validate your license
-3. Click **Prepare** and wait for the game
-4. Launch the game, everything is handled automatically
+**Disclaimer:** Use at your own risk. Not ban-proof; avoid main accounts. Enable only the mods you need. For personal use only.
 
-<span style="color:red">IMPORTANT: You MUST navigate to where Dead Frontier is installed then right click and select properties. Go to compatibility and check run as administrator then click apply for the mods to work.</span>
+---
 
-## Controls
+## Setup
 
-| Key | Action |
-|-----|--------|
-| `F10` | Open Mod Menu |
-| `F11` | Open Object Explorer |
+1. Install the launcher, purchase/validate your license, then click **Prepare** and launch the game.
+2. **Required:** In your Dead Frontier install folder, right-click the game executable → Properties → Compatibility → check **Run as administrator** → Apply.
 
-All keybinds are fully customizable in the new Keybinds tab.
+**Controls:** `F10` = Mod Menu · `F11` = Object Explorer (DF1). Keybinds are configurable in the Keybinds tab.
 
-## Features
+---
 
-### Player Mods
+## DF1 (Dead Frontier 1) — Features
 
-| Mod | Description |
-|-----|-------------|
-| Infinite Sprint | Removes stamina restrictions for endless sprinting |
-| Speed Multiplier | Custom value to increase walking/running speed |
-| Auto Loot Walker | Automatically walks to nearby loot with intelligent pathfinding (does not auto-search) |
-| Fast Loot Search | Instant looting that skips the search animation |
-| Lazy Loot | Press `;` to pull the nearest loot spot to your location |
-| Noclip | Move through walls and obstacles freely |
-| One Hit Kill | Instantly kill zombies, bandits, and bosses with customizable damage multiplier (*Using on bosses/bandits will likely result in a ban*) |
-| Perfect Accuracy | Removes weapon spread (Requires bypass process on startup) |
-| Weapon Speed % | Multiplies weapon speed by your specified value |
-| Cosmetic Customizer | Search and apply any weapon, clothing, or mask model in-game |
+| Category | Features |
+|----------|----------|
+| **Player** | Infinite Sprint, Speed Multiplier, Noclip, Auto Loot Walker, Fast Loot Search, Lazy Loot (`;`), Cosmetic Customizer |
+| **Loot** | Item filtering (ammo/food/cash/custom), Loot Status HUD, Radar, Nearest Loot Arrow |
+| **World** | Visual Clarity, Camera FOV, Disable Weather, Instant Outpost, Disable Enemy/Weapon/Ambience Sound |
+| **Combat** | One Hit Kill, Perfect Accuracy, Weapon Speed %, Never Reload, Auto Fire (`Ctrl+F`), Teleport to Crosshair, Bandit Calmer, Forcefield, No XP, Disable Aggro, Freeze Zombies, Dumb Enemies, Low Exploder/Spitter Radius |
+| **HUD** | Loot Status, Radar, Loot Arrow, Keybinds Display, Filter Buttons, Hitmarker Crosshair, Pause When Menu Opens |
+| **Tools** | Main Mod Menu (F10), Object Explorer (F11), Custom Keybinds, Security/Anti-Cheat Bypasses, Device Identifier Randomizer |
 
-### Item Filtering
+---
 
-- **Ammo:** Auto Deny
-- **Food/Meds:** Auto Consume
-- **Cash:** Auto Accept
-- **Custom:** Accept/Deny specific items (e.g. reactive, ruby, implant, katana, nails)
+## DF2 (Dead Frontier 2) — Features
 
-### World Mods
+| Category | Features |
+|----------|----------|
+| **Player** | Speed Multiplier, Infinite Sprint, Noclip, Auto Puzzle, Fast Loot Search |
+| **Combat** | Disable Enemy Targeting, One Hit Kill, ESP, Aimbot |
 
-| Mod | Description |
-|-----|-------------|
-| Visual Clarity | Reduces visual clutter and brightens the game |
-| Camera FOV | Adjust field of view |
-| Disable Weather | Removes rain/snow for better performance |
-
-### Combat Mods
-
-| Mod | Description |
-|-----|-------------|
-| Auto Fire | Toggle with `Ctrl + F` for continuous shooting |
-| Teleport to Crosshair | Sub-toggle for autofire that teleports enemies within range to your crosshair |
-| Bandit Calmer | Reduces bandit aggression and behavior |
-| Forcefield | Creates a customizable barrier zombies cannot enter |
-| No XP | Prevents experience gain from kills |
-| Disable Aggro | Prevents zombies from attacking or following you |
-| Freeze Zombies | Completely immobilizes all zombies in place |
-| Low Exploder Radius | Shrinks explosion damage from fat zombies |
-| Low Spitter Radius | Reduces spitter range to 0.1m |
-| Never Reload/Infinite Ammo | Eliminates the need to reload weapons |
-
-### HUD Mods
-
-| Mod | Description |
-|-----|-------------|
-| Loot Status | Displays loot count, last item processed, and filter status |
-| Radar | Minimap markers for enemies (red) and loot (yellow) |
-| Nearest Loot Arrow | Directional arrow pointing to closest loot |
-| Pause Game When Menu Opens | Pauses gameplay when mod menu is open |
-| Keybinds Display | Shows active keybinds on screen |
-
-### Tools & Utilities
-
-| Tool | Description |
-|------|-------------|
-| Main Mod Menu (F10) | Central interface for accessing and configuring all mods |
-| Object Explorer (F11) | Inspect and tweak gameplay elements live |
-| Customizable Keybinds | Full customization of all mod hotkeys |
-| Security/Anti-Cheat Bypasses | Multiple layers of protection against detection systems |
-| Randomize Device Identifiers | Randomizes HWID, CPU, and GPU identifiers (*Use a VPN for IP protection*) |
+---
 
 ## Credits
 
-Created by **glvckoma**
+Created by **glvckoma**.
 
-## Legal Notice and Terms of Use
+## Legal
 
-**No Warranty or Guarantee**
-
-This software is distributed on an "as is" basis without any warranties. The creator makes no guarantees regarding functionality or stability. Users accept full responsibility for any outcomes from using this software.
-
-**Limitation of Liability**
-
-The author is not liable for damages or consequences that may result from using this software. This includes account penalties, suspensions, or permanent bans. You use this software entirely at your own risk.
-
-**No Support Obligation**
-
-The author has no obligation to provide technical support or updates. Any future releases or bug fixes are provided voluntarily. Users should not expect continuous development.
-
-**Third-Party Affiliation**
-
-This project operates independently and has no official relationship with Creaky Corpse Ltd or its affiliates. All game-related trademarks and assets remain the property of their respective copyright holders.
-
-**Redistribution and Attribution Requirements**
-
-Any redistribution requires explicit attribution to the original author with a direct reference to the source repository. Commercial use or resale is strictly prohibited. Public distribution must maintain proper credit.
-
-**Prohibited Usage**
-
-This software is intended strictly for educational purposes. It must not be used for:
-
-- Unauthorized account access attempts
-- Credential validation or brute force attacks
-- Circumventing security measures
-- Violating terms of service
-- Compromising user privacy or account security
-- Any malicious or harmful activities
-
-Users are responsible for ensuring their usage complies with all applicable laws and service agreements.
-
-**Licensing Terms**
-
-This project is released under the PolyForm Noncommercial License 1.0.0. This license permits personal use and modification while forbidding commercial deployment or monetization. Users must review all license terms in the LICENSE file.
-
-**Rights Holder Requests**
-
-Should Creaky Corpse Ltd or its authorized representatives request discontinuation of this project they may submit a formal takedown notice via this repository. Upon verification the project will be permanently archived.
-
-**Final Statement**
-
-This software serves exclusively as an educational resource for understanding game architecture. Users assume complete responsibility for their actions. The author bears no responsibility for misuse or consequences from improper application of this software.
+Software is provided "as is" with no warranty. You assume all risk (including account penalties or bans). No obligation to provide support or updates. Not affiliated with Creaky Corpse Ltd; game trademarks remain with their owners. Redistribution requires attribution to the source; commercial use prohibited. For educational use only; no unauthorized access, credential attacks, or ToS violation. Licensed under PolyForm Noncommercial 1.0.0. See LICENSE for full terms. Creaky Corpse Ltd may request takedown via this repository.
